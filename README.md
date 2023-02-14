@@ -21,7 +21,7 @@ My Protfolio about me >> HaVE FUN
 
 Hi, I'm [EL FERCHAKHI ABDESSAMAD!], a passionate self-taught Full Stack Web Developer 🚀 from Morocco.
 
-  <img align="right" alt="GIF" src="" width="500" height="320" />
+ 
   
 **Talking about Personal Stuffs:**
 
